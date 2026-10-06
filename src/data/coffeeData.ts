@@ -1,9 +1,13 @@
 import { CoffeeBean, MenuItem, GalleryItem, EventItem, BrewMethod } from '../types';
+import heroLatteImg from '../assets/images/stir_hero_latte_art_1791275371885.jpg';
+import coffeeShelfImg from '../assets/images/stir_coffee_shelf_1791275384407.jpg';
+import baristaPouroverImg from '../assets/images/stir_barista_pourover_1791275396424.jpg';
+import stirLatesImg from '../assets/images/stir_lates_wine_beer_1791275407577.jpg';
 
-export const HERO_LATTE_IMG = '/src/assets/images/stir_hero_latte_art_1791275371885.jpg';
-export const COFFEE_SHELF_IMG = '/src/assets/images/stir_coffee_shelf_1791275384407.jpg';
-export const BARISTA_POUROVER_IMG = '/src/assets/images/stir_barista_pourover_1791275396424.jpg';
-export const STIR_LATES_IMG = '/src/assets/images/stir_lates_wine_beer_1791275407577.jpg';
+export const HERO_LATTE_IMG = heroLatteImg;
+export const COFFEE_SHELF_IMG = coffeeShelfImg;
+export const BARISTA_POUROVER_IMG = baristaPouroverImg;
+export const STIR_LATES_IMG = stirLatesImg;
 
 export const SHOP_INFO = {
   name: 'STIR COFFEE',

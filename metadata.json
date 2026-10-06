@@ -2,5 +2,7 @@
   "name": "Stir Coffee Brixton",
   "description": "Artisan specialty coffee bar in Brixton, London showcasing rotating guest beans from the world's best roasters, signature brews, and community gatherings.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
